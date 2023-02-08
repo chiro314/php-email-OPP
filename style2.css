@@ -1,0 +1,14 @@
+
+label{
+  width: 7em !important; /*100px*/
+  display: inline-block;
+  margin: 5px 0;
+}
+select, input{
+  width: 20em !important; /*300px*/
+  display: inline-block;
+  margin: 5px 0;
+}
+select{
+  margin-left: -0.25em !important;
+}
